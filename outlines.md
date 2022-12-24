@@ -32,10 +32,14 @@ home
 
 login      =      accounts
 
+''''''
 
+Relations :
+    - one to many      [ user  - posts  ]   Foreignkey
+    - many to many     [ user  - groups ]
+    - one to one       [ user  - profile]
 
-
-
+''''''
 
 Work steps
     - frontend templates
