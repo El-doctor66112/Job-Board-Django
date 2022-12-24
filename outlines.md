@@ -30,4 +30,25 @@ contact
 home
 
 
-login
+login      =      accounts
+
+
+
+
+
+
+Work steps
+    - frontend templates
+    - virtualenv :
+        - create
+        - activate : Scripts\activate
+        - pip install django
+
+
+
+    - upload project on github
+
+    -url : path
+    - view : logic
+    - models : db
+    - templates : frontend
